@@ -3,6 +3,7 @@ Intercept Facebook network traffic on Android device
 
 ## Latest Tested App Version
 - Facebook version: **513.1.0.66.92**
+- Architecture: **arm64/aarch64**
 
 <table>
   <tr>
