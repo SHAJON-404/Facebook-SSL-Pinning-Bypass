@@ -2,15 +2,11 @@
 Intercept Facebook network traffic on Android device
 
 ## Latest Tested App Version
-- Facebook App version: **527.0.0.30.76**
+- Facebook App version: **531.0.0.47.76**
 - Architecture: **arm64/aarch64**
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/traffic_log.png" alt="main traffic" width="450"></td>
-    <td><img src="https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v524.jpg" alt="headers" width="450"></td>
-  </tr>
-</table>
+---
+![headers](https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v531.jpg)
+---
 
 ## Requirements
  1. Rooted Andriod Phone
@@ -30,12 +26,7 @@ Intercept Facebook network traffic on Android device
 
 ## Looking for leatest version patched `libcoldstart.so` contact me
 <p align="left">
-  <a href="https://wa.me/+8801851786150" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=202124&color=25D366&logoWidth=20" alt="WhatsApp" style="border-radius: 50px;"/>
-  </a>
-  <br>
   <a href="https://t.me/DarknessKing999" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=202124&color=2CA5E0&logoWidth=20" alt="Telegram" style="border-radius: 50px;"/>
+    <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
-
