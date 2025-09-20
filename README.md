@@ -8,13 +8,19 @@ Intercept Facebook network traffic on Android device
 ![headers](https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v531.jpg)
 ---
 
-## Requirements
- 1. Rooted Andriod Phone
+## Requirements for Mobile Phone
+ 1. Rooted Andriod Phone [possible non root also]
  2. ProxyPin or Reqable App
+
+## Requirements for Emulator
+1. Windows PC with Reqable/ Burpsuit/ Mitmproxy installed  
+2. Android emulator (Nox/LDPlayer)  
+3. Root access on emulator  
 
 ## Process
  1. replace patched `libcoldstart.so` with `/data/data/com.facebook.katana/lib-compressed/libcoldstart.so`
- 2. run proxypin or reqable app to capture traffic :)
+ 2. Command  ```adb push D:\patched\libcoldstart.so /data/data/com.facebook.katana/lib-compressed/libcoldstart.so```
+ 3. run proxypin or reqable app to capture traffic :)
 
 ## Test v500.0.0.57.50
  1. Download `libcoldstart.so` from this link [Click Here](https://github.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/tree/main/patched_lib)
