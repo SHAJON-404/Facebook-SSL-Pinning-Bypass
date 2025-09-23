@@ -22,14 +22,6 @@ Intercept Facebook network traffic on Android device
  2. Command  ```adb push D:\patched\libcoldstart.so /data/data/com.facebook.katana/lib-compressed/libcoldstart.so```
  3. run proxypin or reqable app to capture traffic :)
 
-## Test v500.0.0.57.50
- 1. Download `libcoldstart.so` from this link [Click Here](https://github.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/tree/main/patched_lib)
- 2. Download Facebook v500.0.0.57.50 [arm64-v8a Android 9+ 360-640dpi] from this link [Click Here](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-8-android-apk-download/)
- 3. Install apk file and open.
- 4. Close Facebook app & go to app info and click Force Stop.
- 5. replace patched `libcoldstart.so` with `/data/data/com.facebook.katana/lib-compressed/libcoldstart.so`
- 6. run proxypin or reqable app to capture traffic :)
-
 ## Looking for leatest version patched `libcoldstart.so` contact me
 <p align="left">
   <a href="https://t.me/DarknessKing999" target="_blank">
