@@ -2,10 +2,10 @@
 Intercept Facebook network traffic on Android device
 
 ## Latest Tested App Version
-- Facebook App version: **534.0.0.0.22**
-- Architecture: **arm64/aarch64**
+- Facebook App version: **537.0.0.19.77**
+- Architecture: **arm64/aarch64, X86_64**
 ---
-![headers](https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v531.jpg)
+![headers](https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v537.jpg)
 ---
 
 ## Requirements for Mobile Phone
@@ -22,7 +22,7 @@ Intercept Facebook network traffic on Android device
  2. Command  ```adb push D:\patched\libcoldstart.so /data/data/com.facebook.katana/lib-compressed/libcoldstart.so```
  3. run proxypin or reqable app to capture traffic :)
 
-## Looking for leatest version patched `libcoldstart.so` contact me
+## Looking for leatest version patched `libcoldstart.so`? Contact me on Telegram
 <p align="left">
   <a href="https://t.me/DarknessKing999" target="_blank">
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
