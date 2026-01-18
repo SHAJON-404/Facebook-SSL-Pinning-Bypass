@@ -2,10 +2,10 @@
 Intercept Facebook network traffic on Android device
 
 ## Latest Tested App Version
-- Facebook App version: **541.0.0.0.7**
+- Facebook App version: **544.0.0.37.272**
 - Architecture: **arm64-v8a, X86_64**
 ---
-![headers](https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v541.jpg)
+![headers](https://raw.githubusercontent.com/SHAJON-404/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v544.jpg)
 ---
 
 ## Requirements for Mobile Phone
