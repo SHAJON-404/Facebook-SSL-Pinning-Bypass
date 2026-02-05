@@ -20,7 +20,7 @@
 8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
 
 ## 📱 Requirements
-1. 🔓 Rooted Android phone/tablet (root access required)
+1. 🔓 Rooted Android phone or Emulator with root access (ldplayer9 / nox player)
 2. 🛠️ ADB tools installed on your computer
 3. 🔄 ProxyPin or Reqable App for traffic capture
 
