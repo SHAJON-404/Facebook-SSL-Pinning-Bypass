@@ -4,6 +4,7 @@
 ## 📌 Latest Tested App Version
 - 🎯 Facebook version: **547.0.0.24.68**
 - Architecture: **arm64-v8a, X86_64**
+- For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
 ![Facebook Android](https://raw.githubusercontent.com/shajon-dev/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v547.jpg)
@@ -23,7 +24,7 @@
 2. 🛠️ ADB tools installed on your computer
 3. 🔄 ProxyPin or Reqable App for traffic capture
 
-## 🔧 Patching Existing Installation Process
+## 🔧 Setup Process
  1. 🔧 **Replace patched `libcoldstart.so`** with the original file at: `/data/data/com.facebook.katana/lib-compressed/libcoldstart.so`
  2. 📲 **Use ADB command** to push the patched library:
     ```
