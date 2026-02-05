@@ -9,14 +9,14 @@
 ![Facebook Android](https://raw.githubusercontent.com/shajon-dev/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v547.jpg)
 
 ## Other Apps
-1. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
-2. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
-3. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
-4. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
-5. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
-6. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
-7. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
-8. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
+1. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
+2. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
+3. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
+4. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
+5. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
+6. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
+7. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
+8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
 
 ## 📱 Requirements
 1. 🔓 Rooted Android phone/tablet (root access required)
