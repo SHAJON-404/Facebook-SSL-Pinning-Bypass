@@ -2,12 +2,12 @@
 📡 Intercept Facebook network traffic on Android device
 
 ## 📌 Latest Tested App Version
-- 🎯 Facebook version: **547.0.0.24.68**
+- 🎯 Facebook version: **551.0.0.6.63**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Facebook Android](https://raw.githubusercontent.com/shajon-dev/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v547.jpg)
+![Facebook Android](https://raw.githubusercontent.com/shajon-dev/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v551.jpg)
 
 ## ✅ Other Apps
 1. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
@@ -39,7 +39,7 @@
 
 - **🔧 x86_64 (64-bit emulator):** [https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-15-android-apk-download/](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-15-android-apk-download/)
 
-**📂 Patched `libcoldstart.so` files are available in the `so_files` folder**
+**📂 Free Patched `libcoldstart.so` files are available in the `so_files` folder**
 
 ## Looking for leatest version patched `libcoldstart.so`? Contact me on Telegram
 <p align="left">
@@ -47,3 +47,20 @@
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+
+## 📜 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original author (MD Shah Makhdum Shajon).
+- NonCommercial — You may not use this project for commercial or professional purposes.
+
+⚠ Commercial or professional use requires prior written permission from the author.
+
+🔗 Full License: https://creativecommons.org/licenses/by-nc/4.0/
