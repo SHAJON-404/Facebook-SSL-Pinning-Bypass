@@ -58,7 +58,7 @@ You are free to:
 - Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-- Attribution — You must give appropriate credit to the original author (MD Shah Makhdum Shajon).
+- Attribution — You must give appropriate credit to the original author (S. SHAJON).
 - NonCommercial — You may not use this project for commercial or professional purposes.
 
 ⚠ Commercial or professional use requires prior written permission from the author.
