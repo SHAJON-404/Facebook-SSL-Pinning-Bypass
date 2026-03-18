@@ -2,12 +2,12 @@
 📡 Intercept Facebook network traffic on Android device
 
 ## 📌 Latest Tested App Version
-- 🎯 Facebook version: **551.0.0.6.63**
+- 🎯 Facebook version: **552.1.0.45.68**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Facebook Android](https://raw.githubusercontent.com/shajon-dev/Facebook-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v551.jpg)
+![Facebook Android](assets/v552.jpg)
 
 ## ✅ Other Apps
 1. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
@@ -39,7 +39,9 @@
 
 - **🔧 x86_64 (64-bit emulator):** [https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-15-android-apk-download/](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-15-android-apk-download/)
 
-**📂 Free Patched `libcoldstart.so` files are available in the `so_files` folder**
+**📂 Free Patched `libcoldstart.so` files are available in the `libs/` folder**
+**📜 Consolidated login scripts are available in the `login.sh` file**
+
 
 ## Looking for leatest version patched `libcoldstart.so`? Contact me on Telegram
 <p align="left">
