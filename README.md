@@ -9,7 +9,6 @@
 ## 🎥 Evidence
 ![Facebook Android](assets/v552.jpg)
 
-
 ## ✅ Other Apps
 1. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
 2. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
