@@ -1,10 +1,8 @@
-# use https://tools.shajon.dev/curl-converter
-
 #!/bin/bash
 
 # Facebook SSL Pinning Bypass - Login CURLs
 # This file contains various versions of login CURL commands. 
-# Uncomment the one you want to use.
+# use https://tools.shajon.dev/curl-converter
 
 # --- Version: 551.0.0.6.63 (LATEST) ---
 curl -X POST 'https://b-graph.facebook.com/graphql' \
