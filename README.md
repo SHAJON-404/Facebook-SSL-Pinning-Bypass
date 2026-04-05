@@ -3,7 +3,7 @@
 
 ## 📌 Latest Bypassed and Tested App Details
 - App version: **555.0.0.49.59**
-- Architecture: **arm64-v8a, armabi-v7a, x86, x86_64**
+- Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
