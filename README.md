@@ -48,7 +48,7 @@
     <tr>
       <td align="center">500.0.0.57.50</td>
       <td align="center">✅ Bypassed</td>
-      <td align="center">Yes</td>
+      <td align="center">No</td>
       <td align="center"><a href="https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-22-android-apk-download/">Download Link</a></td>
       <td align="center"><a href="https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-15-android-apk-download/">Download Link</a></td>
     </tr>
