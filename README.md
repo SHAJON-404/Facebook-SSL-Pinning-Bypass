@@ -2,13 +2,13 @@
 📡 Intercept Facebook network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **555.0.0.49.59**
+- App version: **555.1.0.55.59**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Facebook Android](assets/v555.jpg)
+![Facebook Android](assets/v555.1.jpg)
 
 ## ✅ Other Apps
 1. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
@@ -29,6 +29,7 @@
       <th rowspan="2" align="center">Package Name</th>
       <th rowspan="2" align="center">Version</th>
       <th rowspan="2" align="center">Status</th>
+      <th rowspan="2" align="center">Working on Non root device</th>
       <th colspan="2" align="center">Download Link</th>
     </tr>
     <tr>
@@ -39,13 +40,15 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.katana</code></td>
-      <td align="center">555.0.0.49.59</td>
+      <td align="center">555.1.0.55.59</td>
       <td align="center">✅ Bypassed</td>
+      <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
     <tr>
       <td align="center">500.0.0.57.50</td>
       <td align="center">✅ Bypassed</td>
+      <td align="center">Yes</td>
       <td align="center"><a href="https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-22-android-apk-download/">Download Link</a></td>
       <td align="center"><a href="https://www.apkmirror.com/apk/facebook-2/facebook/facebook-500-0-0-57-50-release/facebook-500-0-0-57-50-15-android-apk-download/">Download Link</a></td>
     </tr>
