@@ -2,13 +2,13 @@
 📡 Intercept Facebook network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **556.1.0.63.64**
+- App version: **557.0.0.59.72**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Facebook Android](assets/v556.jpg)
+![Facebook Android](assets/v557.jpg)
 
 ## ✅ Other Apps
 1. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.katana</code></td>
-      <td align="center">556.1.0.63.64</td>
+      <td align="center">557.0.0.59.72</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
