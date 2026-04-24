@@ -4,7 +4,7 @@
 ## 📌 Latest Bypassed and Tested App Details
 - App version: **556.1.0.63.64**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
-- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
@@ -72,7 +72,7 @@ If this project helped you, consider buying me a coffee! ❤️
 ## 📱 Requirements
 1. 🔓 Rooted Android phone or Emulator with root access (LDPlayer 9 / Nox Player)
 2. 🛠️ ADB tools required for real devices only. Or use [MT Manager](https://mt2.cn/) to replace the .so file on the device.
-3. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+3. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 
 ## 🔧 Setup Process
  1. 🔧 **Replace patched `libcoldstart.so`** with the original file at: `/data/data/com.facebook.katana/lib-compressed/libcoldstart.so`
